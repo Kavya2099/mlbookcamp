@@ -1,2 +1,2 @@
 # mlbookcamp
-study materials of mlbookcamp
+study materials and code details of mlbookcamp
