@@ -1,2 +1,2 @@
 # mlzoomcamp
-study materials and code details of mlzoomcamp
+study materials and homework code details of mlzoomcamp
